@@ -99,6 +99,9 @@ a:hover {
   display: flex;
 }
 
+.projectrow a {
+  margin: 0;
+}
 
 .codeicon {
   margin-right: 30px;
