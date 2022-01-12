@@ -104,6 +104,20 @@ a:hover {
   margin: 0;
 }
 
+.project-row2 {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.project-row2 a {
+  margin: 0;
+}
+
+.elcentimo-link:hover {
+  color: #D9534F;
+}
+
 .codeicon {
   margin-right: 30px;
   width: 25%;
@@ -125,6 +139,7 @@ a:hover {
 .casanovaicon img {
   width: 100%;
   height: auto;
+  float: left;
 }
 
 .casanova-link:hover {
